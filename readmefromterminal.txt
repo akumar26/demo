@@ -1,0 +1,2 @@
+through the cmd
+
